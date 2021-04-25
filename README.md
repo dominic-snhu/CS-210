@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>[About]</h1>
+    <h2>[About]</h2>
     <p>
       This is the project for module seven of CS-210, the Corner Grocer's Grocery Tracking Program.
       <br>
@@ -14,13 +14,13 @@
         <li>Print a text-based histogram of the list of items purchased for a given day</li>
       </ul>
     </p>
-    <h1>[Compilation Instructions]</h1>
+    <h2>[Compilation Instructions]</h2>
     <p>
       This was compiled using g++ 8.3.0-1 and python-dev 2.7.16-1 on Debian 10.9.
       </br>
       $: <code>g++ $(python-config --cflags --ldflags) Menu.cpp -o groceryTracking</code>
     </p>
-    <h1>[8-1 Journal Q&A]</h1>
+    <h2>[8-1 Journal Q&A]</h2>
     <h3>Summarize the project and what problem it was solving.</h3>
     <p>
        This project solves the problem of tracking grocery purchases on a given day for the Corner Grocer's store.
